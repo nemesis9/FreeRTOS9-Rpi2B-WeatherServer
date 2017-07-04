@@ -1,0 +1,3 @@
+make clean
+make
+sudo cp kernel7.img /media/ljosalfur/Boot/kernel7.img
